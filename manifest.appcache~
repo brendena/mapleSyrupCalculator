@@ -1,17 +1,22 @@
 CACHE MANIFEST
 # v2 06-01-2015 3:40pm
 #need to add this becuase the url is is http://reallyba.github.io/mapleSyrupCalculator/
+
+#javascript
 /mapleSyrupCalculator/js/jquery.js
 /mapleSyrupCalculator/js/jquery.qrcode.min.js
 /mapleSyrupCalculator/js/loading.js
 /mapleSyrupCalculator/js/main.js
 
+#css
 /mapleSyrupCalculator/css/bootstrap.min.css
 /mapleSyrupCalculator/css/font-awesome.min.css
 /mapleSyrupCalculator/css/main.css
 
+#logo
 /mapleSyrupCalculator/logo.png
 
+#font
 /mapleSyrupCalculator/fonts/FontAwesome.otf
 /mapleSyrupCalculator/fonts/fontawesome-webfont.eot
 /mapleSyrupCalculator/fonts/fontawesome-webfont.svg
