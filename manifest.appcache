@@ -18,8 +18,8 @@ CACHE MANIFEST
 
 #font
 /mapleSyrupCalculator/fonts/FontAwesome.otf
-/mapleSyrupCalculator/fonts/fontawesome-webfont.eot?v=4.3.0
-/mapleSyrupCalculator/fonts/fontawesome-webfont.svg?v=4.3.0
-/mapleSyrupCalculator/fonts/fontawesome-webfont.ttf?v=4.3.0
-/mapleSyrupCalculator/fonts/fontawesome-webfont.svg?v=4.3.0
-/mapleSyrupCalculator/fonts/fontawesome-webfont.woff2?v=4.3.0
+/mapleSyrupCalculator/fonts/fontawesome-webfont.eot
+/mapleSyrupCalculator/fonts/fontawesome-webfont.svg
+/mapleSyrupCalculator/fonts/fontawesome-webfont.ttf
+/mapleSyrupCalculator/fonts/fontawesome-webfont.svg
+/mapleSyrupCalculator/fonts/fontawesome-webfont.woff2
