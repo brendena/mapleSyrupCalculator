@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v1 06-01-2015 2:52pm
+# v2 06-01-2015 3:40pm
 #need to add this becuase the url is is http://reallyba.github.io/mapleSyrupCalculator/
 /mapleSyrupCalculator/js/jquery.js
 /mapleSyrupCalculator/js/jquery.qrcode.min.js
@@ -13,8 +13,8 @@ CACHE MANIFEST
 /mapleSyrupCalculator/logo.png
 
 /mapleSyrupCalculator/fonts/FontAwesome.otf
-/mapleSyrupCalculator/fonts/fontawesomewebfont.eot
-/mapleSyrupCalculator/fonts/fontawesomewebfont.svg
-/mapleSyrupCalculator/fonts/fontawesomewebfont.ttf
-/mapleSyrupCalculator/fonts/fontawesomewebfont.svg
-/mapleSyrupCalculator/fonts/fontawesomewebfont.woff2
+/mapleSyrupCalculator/fonts/fontawesome-webfont.eot
+/mapleSyrupCalculator/fonts/fontawesome-webfont.svg
+/mapleSyrupCalculator/fonts/fontawesome-webfont.ttf
+/mapleSyrupCalculator/fonts/fontawesome-webfont.svg
+/mapleSyrupCalculator/fonts/fontawesome-webfont.woff2
