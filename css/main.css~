@@ -40,6 +40,16 @@ body
      padding-top:8vh;
      height:100%;
 }
+#infoContainer{
+	position:fixed; 
+	display:none; 
+	top:0px; 
+	left: 0px; 
+	right: 0px
+}
+#textForInfoSection > p{
+	font-size:15px;
+}
 .title
 {
     font-family: 'IM Fell French Canon', serif;
@@ -91,6 +101,10 @@ body
     top:-100%;
     overflow:hidden;
 }
+#calculations{
+
+}
+
 #backgroundOfText
 {
     min-height:80vh;
@@ -102,8 +116,8 @@ body
     height:100%;
     padding:0;
     overflow:auto;
-	overflow-x: hidden;
     display:flex;
+	overflow-x: hidden;
     flex-direction:column
 }
 
@@ -150,6 +164,7 @@ body
 #buttonHolder
 {
     width:100%;
+	flex:none
 }
 button {
     font-family: 'Segoe UI', 'Open Sans', Arial, sans-serif;

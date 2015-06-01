@@ -101,6 +101,18 @@ body
     top:-100%;
     overflow:hidden;
 }
+#calculations{
+	flex:1 0 auto;
+	
+}
+#calculations::after {
+  content: '\00a0'; /* &nbsp; */
+  display: block;
+  margin-top: var(--space);
+  height: 0px;
+  visibility: hidden;
+}
+
 #backgroundOfText
 {
     min-height:80vh;
@@ -160,6 +172,7 @@ body
 #buttonHolder
 {
     width:100%;
+	flex:none
 }
 button {
     font-family: 'Segoe UI', 'Open Sans', Arial, sans-serif;
