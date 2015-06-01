@@ -1,9 +1,10 @@
 CACHE MANIFEST
-/js/jquery.js
-/js/jquery.qrcode.min.js
-/js/loading.js
-/js/main.js
+# v1 06-01-2015 2:52pm
+/mapleSyrupCalculator/js/jquery.js
+/mapleSyrupCalculator/js/jquery.qrcode.min.js
+/mapleSyrupCalculator/js/loading.js
+/mapleSyrupCalculator/js/main.js
 
-/css/bootstrap.min.css
-/css/font-awesome.min.css
-/css/main.css
+/mapleSyrupCalculator/css/bootstrap.min.css
+/mapleSyrupCalculator/css/font-awesome.min.css
+/mapleSyrupCalculator/css/main.css
