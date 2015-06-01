@@ -6,6 +6,8 @@
         <title>maple syrup app</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link rel="shortcut icon" href="./icons/favicon.ico" type="image/x-icon">
 
         <link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-icon-60x60.png">
@@ -20,7 +22,7 @@
 		<link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
-		<link rel="manifest" href="/manifest.json">
+		<link rel="manifest" href="/icons/manifest.json">
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/icons/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
@@ -84,7 +86,7 @@
     <div id="results">
         <div class="container">
             <section class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1" id="backgroundOfText">
-                <div style="flex:1 0 auto;">
+                <div id="calculations">
                     <div id="divUpperMenu">
                         <i class="fa fa-qrcode fa-3x upperMenu"></i>
                         <i class="fa fa-th-list  fa-3x upperMenu"></i>
